@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{C08DF034-49A5-4B53-B2F0-BDEC96BD27ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBGatewayController", "WindowsFormsApplication1\IBGatewayController.csproj", "{C08DF034-49A5-4B53-B2F0-BDEC96BD27ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption\Encryption.csproj", "{0212AFC1-2999-405D-9531-1E2BFFE053D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C08DF034-49A5-4B53-B2F0-BDEC96BD27ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C08DF034-49A5-4B53-B2F0-BDEC96BD27ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C08DF034-49A5-4B53-B2F0-BDEC96BD27ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0212AFC1-2999-405D-9531-1E2BFFE053D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0212AFC1-2999-405D-9531-1E2BFFE053D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0212AFC1-2999-405D-9531-1E2BFFE053D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0212AFC1-2999-405D-9531-1E2BFFE053D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
